@@ -1,8 +1,5 @@
 <div align ="center" >
-      <div style="width: 200px; margin-left: 20px; display: flex; align-items: center;">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" style="width: 100%; height: auto;" loop>
-  </div>
-    <h1>Hello, Fellow  <span> < Developers/>🙋‍♀️</span></h1>
+<h1>Hello, Fellow  <span> < Developers/>🙋‍♀️</span></h1>
 </div>
 <div align = "center">
 <span>      </span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Github+Profile!;Let's+get+to+know+each+other+%3A)" alt="Typing SVG" /></a>
@@ -10,16 +7,15 @@
 
 <div style="display: flex;">
   <!-- Introduction -->
-  <div style="flex: 1;">
+  <div style="flex-grow: 1;">
     <p>👋 Hi, I’m Shambhavi Thakur</p>
     <p>🎓 I'm a passionate Computer Science Undergrad exploring the realms of technology</p>
     <p>💬 Talk to me about exciting opportunities in Software Engineering and Game Development</p>
     <p>👯 I’m looking to collaborate on innovative projects that push the boundaries of technology</p>
   </div>
   
-  <!-- GIF -->
-
 </div>
+
 
 
 <!-- Skills -->
