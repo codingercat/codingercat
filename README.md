@@ -12,6 +12,9 @@
     index = (index + 1) % typingTexts.length;
   }
 
+  // Initially set typing text
+  updateTypingText();
+  // Set interval to update typing text every 2 seconds
   setInterval(updateTypingText, 2000);
 </script>
 
