@@ -1,4 +1,7 @@
 <div align ="center" >
+      <div style="width: 200px; margin-left: 20px; display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" style="width: 100%; height: auto;" loop>
+  </div>
     <h1>Hello, Fellow  <span> < Developers/>🙋‍♀️</span></h1>
 </div>
 <div align = "center">
@@ -15,12 +18,8 @@
   </div>
   
   <!-- GIF -->
-  <div style="width: 200px; margin-left: 20px;">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" style="width: 100%; height: auto;">
-   
-  </div>
-</div>
 
+</div>
 
 
 <!-- Skills -->
