@@ -10,7 +10,7 @@
 
 <!-- Illustration -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212941926-9b7b57be-01e4-4b07-894e-a0a58b7d8f56.gif" width="400" alt="Girl working on laptop">
+  ![undraw_programmer_raqr](https://github.com/user-attachments/assets/fd2a9d44-ca14-4a72-8635-a77afa05b898)
 </div>
 
 <!-- Introduction -->
@@ -52,10 +52,13 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShambhaviThakur&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShambhaviThakur&theme=tokyonight" alt="GitHub Streak">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingercat&show_icons=true&theme=radical" alt="Shambhavi's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingercat&theme=radical" alt="Shambhavi's Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingercat&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
