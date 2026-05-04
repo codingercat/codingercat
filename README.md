@@ -54,7 +54,6 @@
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.icons8.com/fluency/64/arduino.png" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Fusion 360"/>
 </p>
 
 > 🖨️ **3D Printing** (Bambu Lab Studio, Fusion 360) &nbsp;|&nbsp; ⚡ **Arduino & Embedded Systems** &nbsp;|&nbsp; 🔊 **NVDA & Accessibility Software Testing**
