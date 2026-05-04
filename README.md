@@ -1,56 +1,96 @@
-<div align ="center" >
-<h1>Hello, Fellow  <span> < Developers/>🙋‍♀️</span></h1>
-</div>
-<div align = "center">
-<span>      </span><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+My+Github+Profile!;Let's+get+to+know+each+other+%3A)" alt="Typing SVG" /></a>
+<div align="center">
+  <h1>Hello, Fellow <span>&lt;Developers/&gt; 🙋‍♀️</span></h1>
 </div>
 
-<div style="display: flex;">
-  <!-- Introduction -->
-  <div style="flex-grow: 1;">
-    <p>👋 Hi, I’m Shambhavi Thakur</p>
-    <p>🎓 I'm a passionate Computer Science Undergrad exploring the realms of technology</p>
-    <p>💬 Talk to me about exciting opportunities in Software Engineering and Game Development</p>
-    <p>👯 I’m looking to collaborate on innovative projects that push the boundaries of technology</p>
-  </div>
-  
-</div>
-
-
-
-<!-- Skills -->
-<div>
-  <h3>Skills</h3>
-  <img src="https://img.icons8.com/fluency/64/c-programming.png" alt="c-programming"/>
-  <img src="https://img.icons8.com/color/64/000000/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/fluency/64/github.png" alt="Github"/>
-  <img  src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img src="https://img.icons8.com/color/64/000000/numpy.png" alt="Numpy"/>
-  <img src="https://img.icons8.com/color/64/000000/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/fluency/64/opencv.png" alt="OpenCV"/>
-  <img src="https://img.icons8.com/color/64/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/fluency/64/unity.png" alt="Unity"/>
-  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/fluency/64/canva.png" alt="Canva"/>
-  <img  src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/64/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/64/000000/tailwindcss.png" alt="TailwindCSS"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/audacity.png" alt="audacity"/>
-</div>
-
-
-  <!-- Social Media and Profiles -->
-<div>
-  <h3>Connect with me here!</h3>
-  <a href="https://www.linkedin.com/in/shambhavi-thakur1/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Welcome+to+My+Github+Profile!;CSE+Graduate+%7C+Project+Scientist+%40+IIT+Delhi;AI+for+Accessibility+%7C+LLMs+%7C+VLMs;Building+tech+that+includes+everyone+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
-</div> 
+
+---
+
+## 👩‍💻 About Me
+
+- 👋 Hi, I'm **Shambhavi Thakur**
+- 🎓 CSE Graduate (2025) now working as a **Project Scientist @ NCAHT, IIT Delhi**
+- 🔬 My work sits at the intersection of **AI, Accessibility, and Assistive Technology** — building systems that work for everyone, including people with visual impairments
+- 🧠 Specialised in **LLMs, Vision-Language Models (VLMs)**, and deploying AI on real-world assistive systems
+- 🔩 Increasingly working with **hardware + AI integration** — Arduino, embedded systems, 3D printing, and building intelligent physical devices
+- 💬 Talk to me about: AI for social good, HCI, accessible design, LLMs, or anything at the edge of software and hardware
+- 👯 Open to collaborating on projects that push the boundaries of **inclusive technology**
+
+---
+
+## 🛠️ Skills
+
+### Languages
+<p>
+  <img src="https://img.icons8.com/fluency/64/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/64/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/64/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/64/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/64/css3.png" alt="CSS"/>
+</p>
+
+### AI / ML & Data
+<p>
+  <img src="https://img.icons8.com/color/64/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/64/numpy.png" alt="Numpy"/>
+  <img src="https://img.icons8.com/color/64/pandas.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/fluency/64/opencv.png" alt="OpenCV"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
+</p>
+
+### Web & Mobile
+<p>
+  <img src="https://img.icons8.com/color/64/react-native.png" alt="React / React Native"/>
+  <img src="https://img.icons8.com/color/64/tailwindcss.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL"/>
+</p>
+
+### Hardware & Embedded Systems
+<p>
+  <img src="https://img.icons8.com/fluency/64/arduino.png" alt="Arduino"/>
+  <img src="https://img.icons8.com/color/64/fusion-360.png" alt="Fusion 360"/>
+</p>
+
+> 🖨️ **3D Printing** (Bambu Lab Studio, Fusion 360) &nbsp;|&nbsp; ⚡ **Arduino & Embedded Systems** &nbsp;|&nbsp; 🔊 **NVDA & Accessibility Software Testing**
+
+### Tools & Platforms
+<p>
+  <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/64/figma.png" alt="Figma"/>
+  <img src="https://img.icons8.com/fluency/64/unity.png" alt="Unity"/>
+  <img src="https://img.icons8.com/fluency/48/matlab.png" alt="MATLAB"/>
+  <img src="https://img.icons8.com/fluency/64/canva.png" alt="Canva"/>
+  <img src="https://img.icons8.com/fluency/48/audacity.png" alt="Audacity"/>
+</p>
+
+---
+
+## 🔬 Research
+
+**CSUN ATC 2026 — Journal Track**
+> Paper titled "Evaluating VLMs to Generate Accessible STEM Image Descriptions" published at the California State University Northridge Assistive Technology Conference, 2026.
+
+---
+
+## 🌱 Currently Exploring
+
+- LLM + VLM pipelines for real-time assistive applications
+- Integrating AI models on lower-level / edge hardware systems
+- Human-Computer Interaction for accessibility
+- Hardware prototyping with Arduino and custom 3D-printed enclosures
+
+---
+
+## 📬 Connect With Me
+
+<a href="https://www.linkedin.com/in/shambhavi-thakur1/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
