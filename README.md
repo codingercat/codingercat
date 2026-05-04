@@ -54,7 +54,7 @@
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.icons8.com/fluency/64/arduino.png" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fusion360_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Fusion 360"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Fusion360_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Fusion 360"/>
 </p>
 
 > 🖨️ **3D Printing** (Bambu Lab Studio, Fusion 360) &nbsp;|&nbsp; ⚡ **Arduino & Embedded Systems** &nbsp;|&nbsp; 🔊 **NVDA & Accessibility Software Testing**
@@ -74,7 +74,7 @@
 
 ## 🔬 Research Publications
 
-**CSUN ATC 2026 — Journal Track**
+**CSUN ATC 2026 (Journal Track)**
 > Paper titled "Evaluating VLMs to Generate Accessible STEM Image Descriptions" published at the California State University Northridge Assistive Technology Conference, 2026.
 
 ---
