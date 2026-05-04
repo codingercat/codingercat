@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Welcome+to+My+Github+Profile!;CSE+Graduate+%7C+Project+Scientist+%40+IIT+Delhi;AI+for+Accessibility+%7C+LLMs+%7C+VLMs;Building+tech+that+includes+everyone+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Welcome+to+My+Github+Profile!;CSE+Grad+%7C+Project+Scientist+%40+IIT+Delhi;AI+for+Accessibility+%7C+LLMs+%7C+VLMs;Building+tech+that+includes+everyone+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -13,11 +13,10 @@
 ## 👩‍💻 About Me
 
 - 👋 Hi, I'm **Shambhavi Thakur**
-- 🎓 CSE Graduate (2025) now working as a **Project Scientist @ NCAHT, IIT Delhi**
-- 🔬 My work sits at the intersection of **AI, Accessibility, and Assistive Technology** — building systems that work for everyone, including people with visual impairments
-- 🧠 Specialised in **LLMs, Vision-Language Models (VLMs)**, and deploying AI on real-world assistive systems
-- 🔩 Increasingly working with **hardware + AI integration** — Arduino, embedded systems, 3D printing, and building intelligent physical devices
-- 💬 Talk to me about: AI for social good, HCI, accessible design, LLMs, or anything at the edge of software and hardware
+- 💻 Currently working as: **Project Scientist @ NCAHT, IIT Delhi**
+- 🔬 Research: My work sits at the intersection of **AI, Accessibility, and Assistive Technology**
+- 🧠 Specialised in: **LLMs, Vision-Language Models (VLMs)**, and deploying AI on real-world assistive systems
+- 💬 Talk to me about: AI, HCI, Development, Interaction Design, LLMs, or anything at the edge of software and hardware
 - 👯 Open to collaborating on projects that push the boundaries of **inclusive technology**
 
 ---
@@ -55,7 +54,7 @@
 ### Hardware & Embedded Systems
 <p>
   <img src="https://img.icons8.com/fluency/64/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/64/fusion-360.png" alt="Fusion 360"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Fusion360_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="Fusion 360"/>
 </p>
 
 > 🖨️ **3D Printing** (Bambu Lab Studio, Fusion 360) &nbsp;|&nbsp; ⚡ **Arduino & Embedded Systems** &nbsp;|&nbsp; 🔊 **NVDA & Accessibility Software Testing**
@@ -73,7 +72,7 @@
 
 ---
 
-## 🔬 Research
+## 🔬 Research Publications
 
 **CSUN ATC 2026 — Journal Track**
 > Paper titled "Evaluating VLMs to Generate Accessible STEM Image Descriptions" published at the California State University Northridge Assistive Technology Conference, 2026.
