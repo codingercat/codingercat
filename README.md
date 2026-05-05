@@ -1,94 +1,80 @@
 <div align="center">
-  <h1>Hello, Fellow <span>&lt;Developers/&gt; 🙋‍♀️</span></h1>
+
+# Shambhavi Thakur
+
+**Project Scientist · NCAHT, IIT Delhi**
+
+`AI for Accessibility` &nbsp;`LLMs & VLMs` &nbsp;`Hardware + AI` &nbsp;`HCI`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=500&lines=Building+AI+that+works+for+everyone.;LLMs+%7C+VLMs+%7C+Edge+Hardware;Less+than+0.5%25+of+PVI+in+India+have+access.;Working+to+change+that.)](https://git.io/typing-svg)
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=Welcome+to+My+Github+Profile!;CSE+Grad+%7C+Project+Scientist+%40+IIT+Delhi;AI+for+Accessibility+%7C+LLMs+%7C+VLMs;Building+tech+that+includes+everyone+%F0%9F%A4%9D" alt="Typing SVG" />
-  </a>
-</div>
+---
+
+## About
+
+CSE graduate (2025), now working at the intersection of **AI, accessibility, and assistive technology** as a Project Scientist at [NCAHT, IIT Delhi](https://ncaht.iitd.ac.in).
+
+My research focuses on building systems for **Persons with Visual Impairment**, from LLM/VLM pipelines to low-cost hardware that runs without internet or expensive devices. Less than 0.5% of PVI in India have access to assistive technology. That gap is what drives my work.
 
 ---
 
-## 👩‍💻 About Me
+## Research
 
-- 👋 Hi, I'm **Shambhavi Thakur**
-- 💻 Currently working as: **Project Scientist @ NCAHT, IIT Delhi**
-- 🔬 Research: My work sits at the intersection of **AI, Accessibility, and Assistive Technology**
-- 🧠 Specialised in: **LLMs, Vision-Language Models (VLMs)**, and deploying AI on real-world assistive systems
-- 💬 Talk to me about: AI, HCI, Development, Interaction Design, LLMs, or anything at the edge of software and hardware
-- 👯 Open to collaborating on projects that push the boundaries of **inclusive technology**
-
----
-
-## 🛠️ Skills
-
-### Languages
-<p>
-  <img src="https://img.icons8.com/fluency/64/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/64/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/64/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/64/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/64/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/64/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/64/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/64/css3.png" alt="CSS"/>
-</p>
-
-### AI / ML & Data
-<p>
-  <img src="https://img.icons8.com/color/64/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/64/numpy.png" alt="Numpy"/>
-  <img src="https://img.icons8.com/color/64/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/fluency/64/opencv.png" alt="OpenCV"/>
-  <img src="https://img.icons8.com/color/48/google-colab.png" alt="Google Colab"/>
-</p>
-
-### Web & Mobile
-<p>
-  <img src="https://img.icons8.com/color/64/react-native.png" alt="React / React Native"/>
-  <img src="https://img.icons8.com/color/64/tailwindcss.png" alt="TailwindCSS"/>
-  <img src="https://img.icons8.com/color/64/mysql-logo.png" alt="MySQL"/>
-</p>
-
-### Hardware & Embedded Systems
-<p>
-  <img src="https://img.icons8.com/fluency/64/arduino.png" alt="Arduino"/>
-</p>
-
-> 🖨️ **3D Printing** (Bambu Lab Studio, Fusion 360) &nbsp;|&nbsp; ⚡ **Arduino & Embedded Systems** &nbsp;|&nbsp; 🔊 **NVDA & Accessibility Software Testing**
-
-### Tools & Platforms
-<p>
-  <img src="https://img.icons8.com/fluency/64/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/64/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/fluency/64/unity.png" alt="Unity"/>
-  <img src="https://img.icons8.com/fluency/48/matlab.png" alt="MATLAB"/>
-  <img src="https://img.icons8.com/fluency/64/canva.png" alt="Canva"/>
-  <img src="https://img.icons8.com/fluency/48/audacity.png" alt="Audacity"/>
-</p>
-
----
-
-## 🔬 Research Publications
-
-**CSUN ATC 2026 (Journal Track)**
+> **CSUN ATC 2026 (Journal Track)**
 > Paper titled "Evaluating VLMs to Generate Accessible STEM Image Descriptions" published at the California State University Northridge Assistive Technology Conference, 2026.
 
 ---
 
-## 🌱 Currently Exploring
+## Skills
 
-- LLM + VLM pipelines for real-time assistive applications
-- Integrating AI models on lower-level / edge hardware systems
-- Human-Computer Interaction for accessibility
-- Hardware prototyping with Arduino and custom 3D-printed enclosures
+**Languages**
+`Python` `C++` `C` `C#` `Java` `JavaScript` `HTML` `CSS`
+
+**AI / ML**
+`TensorFlow` `OpenCV` `LLMs` `VLMs` `NumPy` `Pandas`
+
+**Web & Mobile**
+`React Native` `React` `TailwindCSS` `MySQL`
+
+**Hardware & Embedded Systems**
+`Arduino` `Fusion 360` `Bambu Lab Studio` `3D Printing`
+
+**Accessibility**
+`NVDA` `HCI` `Assistive Technology` `A11y Testing`
+
+**Tools**
+`Git` `Unity` `Figma` `MATLAB` `Google Colab` `Audacity`
 
 ---
 
-## 📬 Connect With Me
+## Featured Projects
 
-<a href="https://www.linkedin.com/in/shambhavi-thakur1/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
+| Project | Description | Stack |
+|---|---|---|
+| [WorkLog](https://github.com/codingercat/worklog) | Personal productivity tracker — designed, built, and shipped solo from ideation to APK | React Native · Expo · SQLite |
+| [Hardware Learning Log](https://github.com/codingercat/hardware-learning-log) | Documenting the journey into Arduino and embedded systems — building toward low-cost AI-powered assistive devices | Arduino · C++ · 3D Printing |
+
+---
+
+## Currently Exploring
+
+- Deploying LLMs and VLMs on edge / low-cost hardware
+- Integrated AI + Arduino systems for accessibility
+- Human-Computer Interaction research
+- Building tangible, affordable assistive tech for India
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shambhavi--thakur1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shambhavi-thakur1/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codingercat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F0F&title_color=7F77DD&icon_color=7F77DD&text_color=AAAAAA" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingercat&theme=tokyonight&hide_border=true&background=0F0F0F&ring=7F77DD&fire=C0824E&currStreakLabel=7F77DD" alt="GitHub Streak" />
+</div>
